@@ -11,8 +11,9 @@ Python must be installed
 Example Playbook
 ----------------
 
-```yaml
 Here is a use case :
+
+```yaml
   - hosts: servers
     roles:
       - mysql_db
